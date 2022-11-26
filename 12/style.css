@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+main{
+    margin: auto;
+    background-color: rgb(93, 93, 146);
+    text-align: center;
+    padding: 30px;
+    color: aliceblue;
+    width: 50%;
+    height: 50%;
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px 2px  black;
+}
+
+body{
+    background-color: aquamarine;
+}
