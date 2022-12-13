@@ -1,0 +1,50 @@
+*{
+    background-color: rgb(118, 152, 191);
+    color: rgb(20, 26, 26);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+}
+
+label{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+button{
+    margin: 20px;
+    border-radius: 5px;
+    border: 0;
+    color: aliceblue;
+    padding: 10px;
+}
+
+
+main{
+    text-align: center;
+    background-color: aliceblue;
+    text-align: center;
+    box-shadow: 5px 5px 10px ;
+    width: 500px;
+    border-radius: 20px;
+    margin: auto;
+}
+
+input{
+    margin: 10px;
+    border: 0;
+    border-radius: 5px;
+    background-color: rgb(222, 220, 233);
+    width: 420px;
+}
+
+p{
+    font-size: large;
+    color: aliceblue;
+}
+label{
+        font-size: x-large;
+        color: rgb(40, 26, 26);
+}
